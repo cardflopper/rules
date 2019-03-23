@@ -7,11 +7,12 @@ Overview: play numbered tiles to sections of the board, move shamans to collect 
   + players take all the colored discs (see lava disc) and statues, set the small lava discs aside
 
 ## 4 possible actions on a turn
-  
-1. play a numbered disc to a beach space, move your shaman twice (uphill allowed only once)
-1. return a numbered disc to your supply, move your shaman twice (uphill allowed only once)
-1. play a numbered disc to a beach space where the boat is, then move the boat (clockwise) spaces equal to the disc's number, then distribute cards
-1. move the boat one space clockwise (only if all your numbered discs are placed), then distribute cards
+|#|action | description| 
+|-|-|-|
+|1|place disc, move shaman|play a numbered disc to a beach space (no boat present), move your shaman twice (uphill allowed only once) |
+|2|take disc, move shaman |return a numbered disc to your supply, move your shaman twice (uphill allowed only once) |
+|3|place a disc, move boat| play a numbered disc to a beach space where boat is, then move the boat (clockwise) spaces equal to the disc's number, then distribute cards |
+|4|single boat move |move the boat one space clockwise (only if all your numbered discs are placed), then distribute cards |
 
 ## distribute cards
 + cards are distributed when the boat moves to a new space
@@ -20,14 +21,14 @@ Overview: play numbered tiles to sections of the board, move shamans to collect 
 
 ## card actions
 | Card | Effect |
-|---|-|
+|-|-|
 | Build | put a statue of your color where your shaman is|
 | Shell | immediately spend to buy scoring card, or keep for future buy|
 | Pearls | keep for points during scoring rounds, if you have both black and white, it's work more points combined|
 | Nautilus (spiral) | keep for points during scoring rounds|
 | Priestess | move lava disc one space counter/clock-wise|
 
-## Buy scoring cards with shells
+## buy scoring cards with shells
 
 You can purchase scoring cards at these times
 1. during a scoring round just before doing scoring
@@ -35,14 +36,15 @@ You can purchase scoring cards at these times
 
 you pay the required shells (1 or 2) and take the scoring card of your choice.
 
-## Scoring Rounds
+## scoring Rounds
 1. Just before counting points begins
    *  lava comes down the hill possibly destroying some statues
    *  starting with the first player, players can spend shells to purchase scoring cards
 2. score statues, cards (most fish, pearls, nautilus) and purchased scoring cards
 3. return scoring cards to be purchased again
 
-## Game End
+## game end
 + The game ends when the boat moves to an empty space **while** the third deck is empty
-+ One final scoring round is done
-+ Additionally unspent shells cards are worth 1 point each
++ second (final) scoring round is done
++ unspent shells cards are worth 1 point each
+
