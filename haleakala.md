@@ -20,7 +20,7 @@ Overview: play numbered tiles to sections of the board, move shamans to collect 
 
 ## card actions
 | Card | Effect |
-|-|-|
+|---|-|
 | Build | put a statue of your color where your shaman is|
 | Shell | immediately spend to buy scoring card, or keep for future buy|
 | Pearls | keep for points during scoring rounds, if you have both black and white, it's work more points combined|
