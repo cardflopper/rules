@@ -43,6 +43,6 @@ you pay the required shells (1 or 2) and take the scoring card of your choice.
 3. return scoring cards to be purchased again
 
 ## Game End
-+ The game ends when the 3 palm tree deck is empty and the boat moves to an empty space
++ The game ends when the boat moves to an empty space **while** the third deck is empty
 + One final scoring round is done
 + Additionally unspent shells cards are worth 1 point each
